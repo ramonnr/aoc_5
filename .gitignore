@@ -1,0 +1,4 @@
+.clangd/
+.run/
+.test/
+compile_commands.json
